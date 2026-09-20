@@ -1,0 +1,8 @@
+{
+  "name": "Remix Neuroanatomía",
+  "description": "Plataforma de estudio para Neuroanatomía: planimetría y orientación cuadrúpeda, cisuras y lóbulos, neurona y sustancia gris/blanca, matriz SNC/SNP, meninges y líquido cefalorraquídeo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
